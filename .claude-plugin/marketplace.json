@@ -1,0 +1,12 @@
+{
+  "name": "opencode-jev",
+  "description": "Skills for using Jev through OpenCode Go",
+  "owner": { "name": "Nicolás Hermosilla" },
+  "plugins": [
+    {
+      "name": "opencode-jev",
+      "source": "./",
+      "description": "Integration guidance for Jev (TypeSafe's System One decision model) through the OpenCode Go subscription"
+    }
+  ]
+}

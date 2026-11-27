@@ -1,0 +1,10 @@
+{
+  "name": "opencode-jev",
+  "description": "Integration guidance for Jev (TypeSafe's System One decision model) through the OpenCode Go subscription",
+  "version": "0.1.0",
+  "author": { "name": "Nicolás Hermosilla" },
+  "homepage": "https://github.com/nhermosilla14/opencode-jev",
+  "repository": "https://github.com/nhermosilla14/opencode-jev",
+  "license": "MIT",
+  "keywords": ["jev", "typesafe", "opencode", "decision-model", "system-one"]
+}
